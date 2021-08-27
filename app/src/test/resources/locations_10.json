@@ -1,0 +1,282 @@
+[
+  {
+    "StoreNo": 219,
+    "StoreName": "Pilot Travel Center",
+    "City": "Haughton",
+    "State": "LA",
+    "Address": "490 North Elm Street",
+    "AddressTwo": null,
+    "ZipCode": "71037",
+    "Country": "US",
+    "Interstate": "I-20 & Hwy 157  Exit 33",
+    "StoreFrontBrand": null,
+    "Phone": "(318) 390-9709",
+    "Area": null,
+    "StoreType": null,
+    "Latitude": 35.99996,
+    "Longitude": -83.777618,
+    "SpaceAvailability": [
+      {
+        "LocationID": 219,
+        "ItemID": 1,
+        "Description": "Truck",
+        "Total": 5,
+        "Booked": 0,
+        "Available": 4,
+        "Price": 12
+      }
+    ]
+  },
+  {
+    "StoreNo": 1080,
+    "StoreName": "Flying J",
+    "City": "Patterson",
+    "State": "CA",
+    "Address": "2275 Sperry Avenue",
+    "AddressTwo": null,
+    "ZipCode": "95363",
+    "Country": "US",
+    "Interstate": "I-5  Exit 434",
+    "StoreFrontBrand": null,
+    "Phone": "(209) 892-9225",
+    "Area": null,
+    "StoreType": null,
+    "Latitude": 37.465164,
+    "Longitude": -121.165039,
+    "SpaceAvailability": [
+      {
+        "LocationID": 1080,
+        "ItemID": 1,
+        "Description": "Truck",
+        "Total": 10,
+        "Booked": 0,
+        "Available": 9,
+        "Price": 12
+      }
+    ]
+  },
+  {
+    "StoreNo": 627,
+    "StoreName": "Flying J",
+    "City": "Brunswick",
+    "State": "GA",
+    "Address": "2990 US Hwy 17 South",
+    "AddressTwo": null,
+    "ZipCode": "31523",
+    "Country": "US",
+    "Interstate": "I-95 Exit 29",
+    "StoreFrontBrand": null,
+    "Phone": "(912) 280-0006",
+    "Area": null,
+    "StoreType": null,
+    "Latitude": 31.140854,
+    "Longitude": -81.578249,
+    "SpaceAvailability": [
+      {
+        "LocationID": 627,
+        "ItemID": 1,
+        "Description": "Truck",
+        "Total": 5,
+        "Booked": 0,
+        "Available": 4,
+        "Price": 12
+      }
+    ]
+  },
+  {
+    "StoreNo": 683,
+    "StoreName": "Flying J",
+    "City": "Kenly",
+    "State": "NC",
+    "Address": "1800  Princeton-Kenly Road",
+    "AddressTwo": null,
+    "ZipCode": "27542",
+    "Country": "US",
+    "Interstate": "I-95 & Exit 106",
+    "StoreFrontBrand": null,
+    "Phone": "(919) 284-4548",
+    "Area": null,
+    "StoreType": null,
+    "Latitude": 35.574095,
+    "Longitude": -78.14597,
+    "SpaceAvailability": [
+      {
+        "LocationID": 683,
+        "ItemID": 1,
+        "Description": "Truck",
+        "Total": 5,
+        "Booked": 0,
+        "Available": 4,
+        "Price": 12
+      }
+    ]
+  },
+  {
+    "StoreNo": 14,
+    "StoreName": "Pilot Travel Center",
+    "City": "Sunbury",
+    "State": "OH",
+    "Address": "7680 E 36  N State St",
+    "AddressTwo": null,
+    "ZipCode": "43074",
+    "Country": "US",
+    "Interstate": "I-71  Exit 131",
+    "StoreFrontBrand": null,
+    "Phone": "(740) 965-5540",
+    "Area": null,
+    "StoreType": null,
+    "Latitude": 40.265454,
+    "Longitude": -82.92396,
+    "SpaceAvailability": [
+      {
+        "LocationID": 14,
+        "ItemID": 1,
+        "Description": "Truck",
+        "Total": 10,
+        "Booked": 0,
+        "Available": 9,
+        "Price": 12
+      }
+    ]
+  },
+  {
+    "StoreNo": 596,
+    "StoreName": "Pilot Travel Center",
+    "City": "Smiths Creek",
+    "State": "MI",
+    "Address": "2424 Wadhams Road",
+    "AddressTwo": null,
+    "ZipCode": "48074",
+    "Country": "US",
+    "Interstate": "I-69  Exit 196",
+    "StoreFrontBrand": null,
+    "Phone": "(810) 987-7823",
+    "Area": null,
+    "StoreType": null,
+    "Latitude": 42.976044,
+    "Longitude": -82.543317,
+    "SpaceAvailability": [
+      {
+        "LocationID": 596,
+        "ItemID": 1,
+        "Description": "Truck",
+        "Total": 6,
+        "Booked": 0,
+        "Available": 5,
+        "Price": 12
+      }
+    ]
+  },
+  {
+    "StoreNo": 198,
+    "StoreName": "Pilot Travel Center",
+    "City": "Plymouth",
+    "State": "IN",
+    "Address": "10619 9A Road",
+    "AddressTwo": null,
+    "ZipCode": "46563",
+    "Country": "US",
+    "Interstate": "US Hwy 30 & 31",
+    "StoreFrontBrand": null,
+    "Phone": "(574) 936-6525",
+    "Area": null,
+    "StoreType": null,
+    "Latitude": 41.341979,
+    "Longitude": -86.264277,
+    "SpaceAvailability": [
+      {
+        "LocationID": 198,
+        "ItemID": 1,
+        "Description": "Truck",
+        "Total": 10,
+        "Booked": 0,
+        "Available": 9,
+        "Price": 12
+      }
+    ]
+  },
+  {
+    "StoreNo": 735,
+    "StoreName": "Flying J",
+    "City": "Orange",
+    "State": "TX",
+    "Address": "7112 I-10 West",
+    "AddressTwo": null,
+    "ZipCode": "77630",
+    "Country": "US",
+    "Interstate": "I-10 Exit 873",
+    "StoreFrontBrand": null,
+    "Phone": "(409) 883-9465",
+    "Area": null,
+    "StoreType": null,
+    "Latitude": 30.117011,
+    "Longitude": -93.819991,
+    "SpaceAvailability": [
+      {
+        "LocationID": 735,
+        "ItemID": 1,
+        "Description": "Truck",
+        "Total": 4,
+        "Booked": 0,
+        "Available": 3,
+        "Price": 12
+      }
+    ]
+  },
+  {
+    "StoreNo": 4578,
+    "StoreName": "Pilot Travel Center",
+    "City": "Winnsboro",
+    "State": "SC",
+    "Address": "10959 State Highway 200",
+    "AddressTwo": null,
+    "ZipCode": "29180",
+    "Country": "US",
+    "Interstate": "I-77 Exit 48",
+    "StoreFrontBrand": null,
+    "Phone": "(803) 482-6844",
+    "Area": null,
+    "StoreType": null,
+    "Latitude": 34.508233,
+    "Longitude": -81.001222,
+    "SpaceAvailability": [
+      {
+        "LocationID": 4578,
+        "ItemID": 1,
+        "Description": "Truck",
+        "Total": 6,
+        "Booked": 0,
+        "Available": 5,
+        "Price": 0
+      }
+    ]
+  },
+  {
+    "StoreNo": 592,
+    "StoreName": "Pilot Travel Center",
+    "City": "Grand Junction",
+    "State": "CO",
+    "Address": "2195 Hwy 6 & 50",
+    "AddressTwo": null,
+    "ZipCode": "81505",
+    "Country": "US",
+    "Interstate": "I-70  Exit 26",
+    "StoreFrontBrand": null,
+    "Phone": "(970) 245-1491",
+    "Area": null,
+    "StoreType": null,
+    "Latitude": 39.112333,
+    "Longitude": -108.647611,
+    "SpaceAvailability": [
+      {
+        "LocationID": 592,
+        "ItemID": 1,
+        "Description": "Truck",
+        "Total": 5,
+        "Booked": 0,
+        "Available": 4,
+        "Price": 12
+      }
+    ]
+  }
+]

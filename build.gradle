@@ -1,0 +1,73 @@
+// Top-level build file where you can add configuration options common to all sub-projects/modules.
+buildscript {
+    repositories {
+        google()
+        mavenCentral()
+    }
+    ext.kotlin_version = '1.5.20'
+    dependencies {
+        classpath "com.android.tools.build:gradle:7.0.1"
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:1.5.30"
+        classpath "com.google.android.libraries.mapsplatform.secrets-gradle-plugin:secrets-gradle-plugin:2.0.0"
+        classpath 'com.google.dagger:hilt-android-gradle-plugin:2.38.1'
+        classpath "org.jetbrains.kotlin:kotlin-serialization:$kotlin_version"
+
+
+        // NOTE: Do not place your application dependencies here; they belong
+        // in the individual module build.gradle files
+    }
+}
+
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}
+
+ext {
+    appCompatVersion = '1.3.1'
+    constraintLayoutVersion = '2.0.4'
+    coreTestingVersion = '2.1.0'
+    lifecycleVersion = '2.3.0'
+    coreKtxVersion = '1.6.0'
+    materialVersion = '1.3.0'
+    fragmentVersion = '1.3.0'
+    navVersion = '2.3.5'
+    recyclerViewVersion = '1.1.0'
+    legacySupportVersion = '1.0.0'
+    cardViewVersion = '1.0.0'
+    lifecycleExtVersion = '2.2.0'
+
+    //maps
+    maps = '17.0.1'
+
+    //retrofit
+    retrofitVersion = '2.9.0'
+    retrofitGsonVersion = '2.6.2'
+    okHttp = '4.9.0'
+    mockWebServer = '4.9.1'
+    coroutinesTest = '1.5.1'
+
+
+    //serialization
+    serializationRetrofitConverter = '0.8.0'
+    serializationJson = '1.2.2'
+
+
+    //hilt
+    hilt = '2.38.1'
+
+    //leakcanary
+    leakCanary = '2.7'
+
+    // testing
+    junitVersion = '4.13.2'
+    robolectricVersion = '4.5'
+    mockitoVersion = '3.1.0'
+    espressoVersion = '3.1.0'
+    androidxJunitVersion = '1.1.2'
+    androidXVersion = '1.0.0'
+    androidXTestCoreVersion = '1.3.0'
+    androidXTestExtKotlinRunnerVersion = '1.1.2'
+    androidXTestRulesVersion = '1.2.0-beta01'
+    hamcrestVersion = '1.3'
+
+}
